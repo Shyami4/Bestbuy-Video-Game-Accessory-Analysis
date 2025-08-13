@@ -1,5 +1,6 @@
 # Bestbuy-Video-Game-Accessory-Analysis
 
+![Project Presentation](Project Presentation_Team 5A.gif) 
 Project Summary: Analyzing Consumer Trends in Best Buy’s Video Game Segment
 This project focuses on analyzing consumer behavior and market trends for video game consoles and accessories sold on BestBuy.com. By leveraging customer reviews, recommend rates, product attributes, and pricing data, the goal is to uncover actionable insights that can enhance product offerings and improve customer satisfaction.
 
